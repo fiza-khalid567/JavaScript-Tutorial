@@ -1,0 +1,1 @@
+//document.write("now in this i commented the lines")
