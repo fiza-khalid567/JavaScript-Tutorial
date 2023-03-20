@@ -5,3 +5,4 @@
 # [variables](./MARK%20DOWN/5.variables.md)
 # [let and const variables](./MARK%20DOWN/6.let%20and%20const%20variables.md)
 # [data types](./MARK%20DOWN/7.data%20types.md)
+# [operators](./MARK%20DOWN/8.operators.md)
