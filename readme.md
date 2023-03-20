@@ -8,3 +8,4 @@
 # [operators](./MARK%20DOWN/8.operators.md)
 # [aasignment operators](./MARK%20DOWN/9.assignment%20operator.md)
 # [console](./MARK%20DOWN/10.console.md)
+# [comparison](./MARK%20DOWN/11.%20comparison.md)
