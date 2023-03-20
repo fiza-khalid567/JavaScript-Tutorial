@@ -13,3 +13,4 @@
 # [logical operators](./MARK%20DOWN/13.logical.md)
 # [if else](./MARK%20DOWN/14.if%20else.md)
 # [if else if](./MARK%20DOWN/15.if%20else%20if.md)
+# [ternary operator](./MARK%20DOWN/16.ternary%20operator.md)
