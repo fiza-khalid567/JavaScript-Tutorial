@@ -10,3 +10,4 @@
 # [console](./MARK%20DOWN/10.console.md)
 # [comparison](./MARK%20DOWN/11.%20comparison.md)
 # [if statement](./MARK%20DOWN/12.if%20statement.md)
+# [logical operators](./MARK%20DOWN/13.logical.md)
